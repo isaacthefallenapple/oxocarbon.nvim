@@ -1,7 +1,6 @@
 -- Boyd Kelly
 -- oxocarbon theme for lualine status
 -- MIT license, see LICENSE for more details.
--- stylua: ignore
 
 --visual magneta
 --insert red (lighter)
