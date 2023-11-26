@@ -294,7 +294,7 @@
 
 (custom-set-face! :Boolean [] {:fg oxocarbon.base09 :bg oxocarbon.none})
 (custom-set-face! :Character [] {:fg oxocarbon.base14 :bg oxocarbon.none})
-(custom-set-face! :Comment [:italic]
+(custom-set-face! :Comment []
                   {:fg oxocarbon.base03 :bg oxocarbon.none})
 (custom-set-face! :Conceal [] {:fg oxocarbon.none :bg oxocarbon.none})
 (custom-set-face! :Conditional [] {:fg oxocarbon.base09 :bg oxocarbon.none})
